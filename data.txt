@@ -995,3 +995,4 @@ ART: 2018-01-31T00:00:00 - Pixel for G
 ART: 2018-01-31T00:00:00 - Pixel for G
 ART: 2018-01-31T00:00:00 - Pixel for G
 ART: 2018-01-11T00:00:00 - Pixel for G
+ART: 2018-01-11T00:00:00 - Pixel for G
