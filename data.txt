@@ -1012,3 +1012,4 @@ ART: 2018-01-12T00:00:00 - Pixel for G
 ART: 2018-02-09T00:00:00 - Pixel for G
 ART: 2018-02-09T00:00:00 - Pixel for G
 ART: 2018-02-09T00:00:00 - Pixel for G
+ART: 2018-02-09T00:00:00 - Pixel for G
