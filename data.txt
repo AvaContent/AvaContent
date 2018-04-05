@@ -1175,3 +1175,4 @@ ART: 2018-04-25T00:00:00 - Pixel for B
 ART: 2018-04-25T00:00:00 - Pixel for B
 ART: 2018-04-25T00:00:00 - Pixel for B
 ART: 2018-04-05T00:00:00 - Pixel for B
+ART: 2018-04-05T00:00:00 - Pixel for B
