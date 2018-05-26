@@ -1274,3 +1274,4 @@ ART: 2018-05-19T00:00:00 - Pixel for S
 ART: 2018-05-19T00:00:00 - Pixel for S
 ART: 2018-05-19T00:00:00 - Pixel for S
 ART: 2018-05-19T00:00:00 - Pixel for S
+ART: 2018-05-26T00:00:00 - Pixel for S
